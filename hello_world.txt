@@ -1,2 +1,3 @@
 Hello
 And I guess now goodbye
+An example of a good commit message
